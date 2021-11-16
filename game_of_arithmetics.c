@@ -120,7 +120,6 @@ int main(){
 
     int play=1;
 
-    GAMEPLAY_LOOP:
     do{
         //To clear the console screen before another game play
         system("cls");
